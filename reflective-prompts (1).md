@@ -1,7 +1,10 @@
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
-
+Yes  I take regular breaks while I am on my programming projects.
+I went to see Cyropractor with my wife and it was great learning outcome for basic body stretch exercise.
 ### What is Timeboxing? Have you heard of it before? Will you use it?
+Timeboxing is a simple time management technique that involves allotting a fixed, maximum unit of time for an activity in advance, and then complete the activity within that time frame.
 
+The concept was first introduced by James Martin, the author of the book Rapid Application Development, as a part of agile software development.
 ### On a a 0-5 scale, how confident are you with each of the assignments?
 
 ### What are of you proud of up to this point in the course?
