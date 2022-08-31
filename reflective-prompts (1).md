@@ -6,15 +6,19 @@ Timeboxing is a simple time management technique that involves allotting a fixed
 
 The concept was first introduced by James Martin, the author of the book Rapid Application Development, as a part of agile software development.
 ### On a a 0-5 scale, how confident are you with each of the assignments?
-
+I reckon I am at scale 4.
 ### What are of you proud of up to this point in the course?
+When i look back i see myself where I know one basic programming language which is Python and learned soo much about latest technologies.
+Really proud.
 
 ### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
-
+Yes, I watch the online videos on Youtube to learn Python.
 
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
+Congratulation Daljeet.
 
 ### What is Python?
+
 
 ### Have you developed a habit of exploring?
 
